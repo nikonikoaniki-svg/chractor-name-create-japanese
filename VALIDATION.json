@@ -1,0 +1,15 @@
+{
+  "total_records": 17000,
+  "surname_pool": 5000,
+  "completed_given": 3000,
+  "male_names": 1400,
+  "female_names": 1400,
+  "neutral_names": 200,
+  "glyph_patterns": 3000,
+  "creative_total": 9000,
+  "forbidden_pronunciation_fields": 0,
+  "male_female_overlap": 0,
+  "male_neutral_overlap": 0,
+  "female_neutral_overlap": 0,
+  "recent_block_size": 100
+}
